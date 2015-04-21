@@ -16,7 +16,7 @@ From 2014-2015 I contributed to the design, development, and statistical validat
 
 #### Dissertation ####
 
-Programming Molecules and Cells: Design Architectures for Chemical Reaction and Gene Regulatory Networks. Submitted March 7, 2014.<br>
+[Programming Molecules and Cells: Design Architectures for Chemical Reaction and Gene Regulatory Networks](/img/oishi-thesis.pdf). Submitted March 7, 2014.<br>
 Committee members: Eric Klavins (Chair), Georg Seelig, James Carothers, Mark Oskin (GSR)
 
 <!-- #### Thesis Defense ####
