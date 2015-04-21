@@ -53,13 +53,13 @@ Linear I/O systems are a fundamental tool in systems theory, and have been used 
   <img src="/img/legged-climbing.png" width="300px"/>
 </div>
 
-Stability and Control for a Class of Dynamic Legged Climbers, May 2006.
+[Stability and Control for a Class of Dynamic Legged Climbers](/img/ms-thesis.pdf), May 2006.
 
 Motivated by the success of the lateral leg spring (LLS) and spring-loaded inverted pendulum (SLIP) templates for transverse and sagittal plane running on horizontal surfaces, my effort is to similarly approximate the analytically intractable dynamics of a full dimensional system through planar models, and develop simple control strategies based on analysis of these approximations. In this report I introduce low-dimensional generalizations of the LLS and SLIP templates capable of ascending and descending by considering configurations of the center of pressure outside of the set of asymptotically stable configurations in the horizontal plane, and allow a thrust phase to add or remove energy from the hopper. I provide mathematical analysis of these models where possible, and introduce approximate models and empirical data where analytical analysis is intractable. Stable control strategies developed from these low dimensional templates and approximations are demonstrated through simulation.
 
 ### **Past Research and Other Projects** ###
-* 2005, Linear and Nonlinear Dimensionality Reduction in fMRI Data for Picture-Sentence Classification (with Stuart Anderson).
-* 2002-2004, Urban Search and Rescue: Cyber Agents, Robots and People (advisors Illah Nourbakhsh, Katia Sycara, Mike Lewis).
-* 2004, Development of an Automatic Bicycle Shifting System and Associated Human Interfaces (with Stuart Anderson and Michael Blain).
+* 2005, [Linear and Nonlinear Dimensionality Reduction in fMRI Data for Picture-Sentence Classification](/img/ml-paper.pdf) (with [Stuart Anderson](http://www.cs.cmu.edu/~soa/)).
+* 2002-2004, [Urban Search and Rescue: Cyber Agents, Robots and People](http://www.cs.cmu.edu/~softagents/project_grants_NSF.html) (advisors [Illah Nourbakhsh](http://www.cs.cmu.edu/~illah/), [Katia Sycara](http://www.cs.cmu.edu/~sycara/), [Mike Lewis](http://www.ischool.pitt.edu/people/lewis.php)).
+* 2004, [Development of an Automatic Bicycle Shifting System and Associated Human Interfaces](/img/bike_proposal.pdf) (with [Stuart Anderson](http://www.cs.cmu.edu/~soa/) and Michael Blain).
 
 ### [About](/about) | [Publications](/publications) | Research | [Teaching](/teaching) ###
