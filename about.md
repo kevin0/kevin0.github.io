@@ -7,6 +7,10 @@ redirect_from: "/"
 
 #### [Curriculum vitae](/cv.pdf) ####
 
+<div style="float: right">
+  <img src="/img/me.png" width="200px"/>
+</div>
+
 I am currently a **[postdoctoral researcher](http://idmod.org/team/bio/55%20)** at the [Institute for Disease Modeling](http://idmod.org) in Seattle, WA.  There I apply stochastic dynamical systems theory to **[HIV modeling](http://idmod.org/research/hiv)** and more generally to algorithm design for simulation, sampling, and inference, in the context of stochastic epidemiological modeling.
 
 I received my Ph.D. from the department of [Electrical Engineering](http://ee.washington.edu) at the [University of Washington](http://www.washington.edu) in 2014.  As a **[Ph.D. student](http://depts.washington.edu/soslab/mw/index.php?title=User:Oishi)** in the [Klavins lab](http://klavinslab.org), I developed frameworks for engineering technomimetic dynamical and computational systems in **[DNA and synthetic biological organisms](http://klavinslab.org)**.
@@ -26,7 +30,7 @@ In 2006 I completed my M.S. in [Robotics](http://ri.cmu.edu) from [Carnegie Mell
 | Thesis: *Stability and Control for a Class of Dynamic Legged Climbers*
 | Advisor: [Professor Alfred A. Rizzi](http://www.ri.cmu.edu/person.html?person_id=249)
 
-**B.S. Computer Science** and **B.S. Discrete Math and Logic**, Carnegie Mellon University, 2004.
+**B.S. Computer Science** and **B.S. Discrete Math and Logic**, [Carnegie Mellon University](http://www.cmu.edu), 2004.
 
 ### Research Interests ###
 * Distributed Systems and Algorithms
