@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+redirect_from: "/"
 ---
 
 #### [Curriculum vitae](/cv.pdf) ####
