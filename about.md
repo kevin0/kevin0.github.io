@@ -37,4 +37,4 @@ In 2006 I completed my M.S. in [Robotics](http://ri.cmu.edu) from [Carnegie Mell
 * Robotics and Automation
 
 
-### [Research](/research) | [Publications](/publications) | [Teaching](/teaching) | About ###
+### About | [Publications](/publications) | [Research](/research) | [Teaching](/teaching) ###

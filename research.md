@@ -7,4 +7,4 @@ permalink: /research/
 
 
 
-### [Research](research) | [Publications](publications) | [Teaching](teaching) | About ###
+### [About](/about) | [Publications](/publications) | Research | [Teaching](/teaching) ###
