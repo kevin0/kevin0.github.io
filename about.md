@@ -7,7 +7,7 @@ redirect_from: "/"
 
 #### [Curriculum vitae](/cv.pdf) ####
 
-I am currently a **[postdoctoral researcher](http://idmod.org/team/bio/55%20)** at the [Institute for Disease Modeling](http://idmod.org) in Seattle, WA.  There I apply stochastic dynamical systems theory to **[HIV modeling](http://idmod.org/research/hiv)** and more generally to algorithm design for stochastic dynamical systems in the context of epidemiological modeling.
+I am currently a **[postdoctoral researcher](http://idmod.org/team/bio/55%20)** at the [Institute for Disease Modeling](http://idmod.org) in Seattle, WA.  There I apply stochastic dynamical systems theory to **[HIV modeling](http://idmod.org/research/hiv)** and more generally to algorithm design for simulation, sampling, and inference, in the context of stochastic epidemiological modeling.
 
 I received my Ph.D. from the department of [Electrical Engineering](http://ee.washington.edu) at the [University of Washington](http://www.washington.edu) in 2014.  As a **[Ph.D. student](http://depts.washington.edu/soslab/mw/index.php?title=User:Oishi)** in the [Klavins lab](http://klavinslab.org), I developed frameworks for engineering technomimetic dynamical and computational systems in **[DNA and synthetic biological organisms](http://klavinslab.org)**.
 
