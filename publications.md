@@ -4,6 +4,8 @@ title: Publications and Invited Presentations
 permalink: /publications/
 ---
 
+#### [Kevin Oishi @ Google Scholar](http://scholar.google.com/citations?user=W4gZUKQAAAAJ&hl=en) ####
+
 <h2 id="journal-articles">Journal Articles</h2>
 <ol class="bibliography"><li><span id="oishi2014framework">Oishi, K., &amp; Klavins, E. (2014). Framework for Engineering Finite State Machines in Gene Regulatory Networks. <i>ACS Synthetic Biology</i>, <i>3</i>(9), 652–665.</span></li>
 <li><span id="jang2012specification">Jang, S. S., Oishi, K. T., Egbert, R. G., &amp; Klavins, E. (2012). Specification and simulation of synthetic multicelled behaviors. <i>ACS Synthetic Biology</i>, <i>1</i>(8), 365–374.</span></li>
