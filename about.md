@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-#### [Curriculum vitae](cv.pdf) ####
+#### [Curriculum vitae](/cv.pdf) ####
 
 I am currently a **[postdoctoral researcher](http://idmod.org/team/bio/55%20)** at the [Institute for Disease Modeling](http://idmod.org) in Seattle, WA.  There I apply stochastic dynamical systems theory to **[HIV modeling](http://idmod.org/research/hiv)** and more generally to algorithm design for stochastic dynamical systems in the context of epidemiological modeling.
 
@@ -30,10 +30,10 @@ In 2006 I completed my M.S. in [Robotics](http://ri.cmu.edu) from [Carnegie Mell
 ### Research Interests ###
 * Distributed Systems and Algorithms
 * Graphical Models
-* Metamodeling and Model Calibration
+* Metamodeling and Experiment Design
 * Self Organizing Systems
 * Synthetic Biology
 * Robotics and Automation
 
 
-### [Research](research) | [Publications](publications) | [Teaching](teaching) | About ###
+### [Research](/research) | [Publications](/publications) | [Teaching](/teaching) | About ###
