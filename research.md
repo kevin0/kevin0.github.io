@@ -14,12 +14,12 @@ From 2014-2015 I contributed to the design, development, and statistical validat
 Programming Molecules and Cells: Design Architectures for Chemical Reaction and Gene Regulatory Networks. Submitted March 7, 2014.<br>
 Committee members: Eric Klavins (Chair), Georg Seelig, James Carothers, Mark Oskin (GSR)
 
-#### Thesis Defense ####
+<!-- #### Thesis Defense ####
 Programming Molecules and Cells: Design Architectures for Chemical Reaction and Gene Regulatory Networks. December 5, 2013. [pdf|movie1|movie2|supplemental]<br>
 Committee members: Eric Klavins (Chair), Georg Seelig, James Carothers, Mark Oskin (GSR)
 
 #### Thesis Proposal ####
-Programming Molecules and Cells: Design Architectures for Chemical Reaction and Gene Regulatory Networks. January 16, 2013.
+Programming Molecules and Cells: Design Architectures for Chemical Reaction and Gene Regulatory Networks. January 16, 2013. -->
 
 #### Computation in Cells and Growing Microcolonies ####
 Finite state machines are fundamental computing devices at the core of many models of computation. In biology, finite state machines are commonly used as models of development in multicellular organisms. However, it remains unclear to what extent cells can remember state, how they can transition from one state to another reliably, and whether the existing parts available to the synthetic biologist are sufficient to implement prespecified finite state machines in living cells. Furthermore, how complex multicellular behaviors can be realized by multiple cells coordinating their states with signaling, growth, and division is not well understood. I describe a method by which any finite state machine can be built using nothing more than a suitably engineered network of readily available repressing transcription factors. In particular, I show the mathematical equivalence of finite state machines with a Boolean model of gene regulatory networks. I describe how such networks can be realized with a small class of promoters and transcription factors. To demonstrate the robustness of our approach, I show that the behavior of the ideal Boolean network model approximates a more realistic delay differential equation model of gene expression. Finally, I explore a framework for the design of more complex systems via an example, synthetic bacterial microcolony edge detection, that illustrates how finite state machines could be used together with cell signaling to construct novel multicellular behaviors.
