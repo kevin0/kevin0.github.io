@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications and Invited Presentations
-permalink: /Publications/
+permalink: /publications/
 ---
 
 <h2 id="journal-articles">Journal Articles</h2>
