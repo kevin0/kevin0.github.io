@@ -4,15 +4,15 @@ title: Research
 permalink: /research/
 ---
 
-### **HIV Modeling** (Postdoctoral Work) ###
-
 <a name="hiv-modeling"></a>
+
+### **HIV Modeling** (Postdoctoral Work) ###
 
 From 2014-2015 I contributed to the design, development, and statistical validation of a detailed stochastic and spatial model of the HIV epedemic. As part of this work, I oversaw the design and implementation of the "cascade of care" component of the model that simulates an individual's interaction with a geographically local healthcare system.  Recently I have begun work on developing and comparing algorithms and techniques to calibrate stochastic epidemiological models to observed data. I am particularly interested in metamodeling, experiment design, and sampling techniques rooted in Bayesian statistics.
 
-### **Synthetic Biology** (Ph.D. Work) ###
-
 <a name="synthetic-biology"></a>
+
+### **Synthetic Biology** (Ph.D. Work) ###
 
 <div style="float:right; padding-left:5px">
   <img src="/img/defense-title.png" width="300px"/>
@@ -51,9 +51,9 @@ Recent advances in the design and construction of synthetic multicelled systems 
 #### DNA Programming ####
 Linear I/O systems are a fundamental tool in systems theory, and have been used to design complex circuits and control systems in a variety of settings. Here I present a principled design method for implementing arbitrary linear I/O systems with biochemical reactions. This method relies on two levels of abstraction: first, an implementation of linear I/O systems using idealized chemical reactions, and second, an approximate implementation of the ideal chemical reactions with enzyme-free, entropy-driven DNA reactions. The ideal linear dynamics are shown to be closely approximated by the chemical reactions model and the DNA implementation. I illustrate the approach with integration, gain and summation as well as with the ubiquitous robust proportional-integral controller.
 
-### **Dynamic Legged Climbing** (Masters Thesis) ###
-
 <a name="dynamic-legged-climbing"></a>
+
+### **Dynamic Legged Climbing** (Masters Thesis) ###
 
 <div style="float:right; padding-left:5px">
   <img src="/img/legged-climbing.png" width="300px"/>
