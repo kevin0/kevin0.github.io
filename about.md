@@ -32,12 +32,12 @@ In 2006 I completed my M.S. in [Robotics](http://ri.cmu.edu) from [Carnegie Mell
 **Ph.D. Electrical Engineering**<br>
 | [Department of Electrical Engineering](http://ee.washington.edu), [University of Washington](http://www.washington.edu), 2014<br>
 | [Self-Organizing Systems / Synthetic Biology Lab](http://klavinslab.org)<br>
-| Thesis: *Programming Molecules and Cells: Design Architectures for Chemical Reaction and Gene Regulatory Networks*<br>
+| Thesis: *[Programming Molecules and Cells: Design Architectures for Chemical Reaction and Gene Regulatory Networks](/img/oishi-thesis.pdf)*<br>
 | Advisor: [Professor Eric Klavins](http://www.ee.washington.edu/faculty/klavins_eric/)
 
 **M.S. Robotics**<br>
 | [Robotics Institute](http://ri.cmu.edu), [Carnegie Mellon University](http://www.cmu.edu), 2006<br>
-| Thesis: *Stability and Control for a Class of Dynamic Legged Climbers*
+| Thesis: *[Stability and Control for a Class of Dynamic Legged Climbers](/img/ms-thesis.pdf)*<br>
 | Advisor: [Professor Alfred A. Rizzi](http://www.ri.cmu.edu/person.html?person_id=249)
 
 **B.S. Computer Science** and **B.S. Discrete Math and Logic**, [Carnegie Mellon University](http://www.cmu.edu), 2004.
