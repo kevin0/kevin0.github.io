@@ -21,7 +21,9 @@ redirect_from: "/"
   <img src="/img/me.png" width="200px"/>
 </div>
 
-I am currently a **[postdoctoral researcher](http://idmod.org/team/bio/55%20)** at the [Institute for Disease Modeling](http://idmod.org) in Bellevue, WA.  There I apply stochastic dynamical systems theory to **[HIV modeling](http://idmod.org/research/hiv)** and more generally to algorithm design for simulation, sampling, and inference, in the context of stochastic epidemiological modeling.
+Currently I am a **software engineer and technical lead** at [Google](http://www.google.com). Since 2018 I've worked on [Maps](http://maps.google.com) where I apply machine learning and state estimation to the problem of creating an up-to-date real world model, with a focus on street-level sensor data (including imagery, video, and LiDAR). Prior to that (2016-2017), I designed and built backend systems that enable Android Pay.
+
+From 2014-2015 I was a **[postdoctoral researcher](http://idmod.org/team/bio/55%20)** at the [Institute for Disease Modeling](http://idmod.org) in Bellevue, WA.  There I apply stochastic dynamical systems theory to **[HIV modeling](http://idmod.org/research/hiv)** and more generally to algorithm design for simulation, sampling, and inference, in the context of stochastic epidemiological modeling.
 
 I received my Ph.D. from the department of [Electrical Engineering](http://ee.washington.edu) at the [University of Washington](http://www.washington.edu) in 2014.  As a **[Ph.D. student](http://depts.washington.edu/soslab/mw/index.php?title=User:Oishi)** in the [Klavins lab](http://klavinslab.org), I developed frameworks for engineering technomimetic dynamical and computational systems in **[DNA and synthetic biological organisms](/research#synthetic-biology)**.
 
