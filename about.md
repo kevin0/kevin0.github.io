@@ -21,7 +21,7 @@ redirect_from: "/"
   <img src="/img/me.png" width="200px"/>
 </div>
 
-Currently I am a **software engineer and technical lead** at [Google](http://www.google.com). Since 2018 I've worked on [Maps](http://maps.google.com) where I apply machine learning and state estimation to the problem of creating an up-to-date real world model, with a focus on street-level sensor data (including imagery, video, and LiDAR). Prior to that (2016-2017), I designed and built backend systems that enable Android Pay.
+Currently I am a **software engineer and technical lead** at [Google](http://www.google.com). Since 2018 I've worked on [Maps](http://maps.google.com) where I apply machine learning and state estimation to the problem of creating an up-to-date real world model, with a focus on street-level sensor data (including imagery, video, and LiDAR). Prior to that (2016-2017), I designed and built backend systems that enable [Android Pay](http://pay.google.com).
 
 From 2014-2015 I was a **[postdoctoral researcher](http://idmod.org/team/bio/55%20)** at the [Institute for Disease Modeling](http://idmod.org) in Bellevue, WA.  There I apply stochastic dynamical systems theory to **[HIV modeling](http://idmod.org/research/hiv)** and more generally to algorithm design for simulation, sampling, and inference, in the context of stochastic epidemiological modeling.
 
